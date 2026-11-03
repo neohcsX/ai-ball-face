@@ -2,7 +2,7 @@
 
 XiaoZhi voice assistant with an animated face instead of the emoji display.
 
-[![Watch the video](https://img.youtube.com/vi/RIGIHEVNYpo/hqdefault.jpg)](https://www.youtube.com/shorts/RIGIHEVNYpo)
+[![Watch the video](https://img.youtube.com/vi/jVZ4FdJq-Uc/hqdefault.jpg)](https://www.youtube.com/shorts/jVZ4FdJq-Uc)
 
 **Only for:** SpotPear ESP32-S3 AI ball (ESP32-S3 **N16R8**, round 1.28" display 240×240,
 touch, speaker). This file will not run on other devices.

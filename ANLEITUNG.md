@@ -2,7 +2,7 @@
 
 XiaoZhi-Sprachassistent mit animiertem Gesicht statt Emoji-Anzeige.
 
-[![Video ansehen](https://img.youtube.com/vi/RIGIHEVNYpo/hqdefault.jpg)](https://www.youtube.com/shorts/RIGIHEVNYpo)
+[![Video ansehen](https://img.youtube.com/vi/jVZ4FdJq-Uc/hqdefault.jpg)](https://www.youtube.com/shorts/jVZ4FdJq-Uc)
 
 **Nur für:** SpotPear ESP32-S3 AI-Kugel (ESP32-S3 **N16R8**, rundes 1,28"-Display 240×240,
 Touch, Lautsprecher). Auf anderen Geräten läuft diese Datei nicht.
