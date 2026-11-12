@@ -1,4 +1,4 @@
-KI-Kugel mit Gesicht — Firmware 9.0.0
+KI-Kugel mit Gesicht — Firmware 9.1.0
 Lizenzhinweise zu den enthaltenen Bestandteilen
 ================================================================================
 

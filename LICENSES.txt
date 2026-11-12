@@ -1,4 +1,4 @@
-AI Ball with a Face — Firmware 9.0.0
+AI Ball with a Face — Firmware 9.1.0
 Licence notices for the included components
 ================================================================================
 
